@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bhumik6/MyApp.git/static/css/main.4e4302c9.css",
-    "main.js": "/Bhumik6/MyApp.git/static/js/main.4d3503b7.js",
-    "static/js/787.d4aba7ab.chunk.js": "/Bhumik6/MyApp.git/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/Bhumik6/MyApp.git/index.html",
-    "main.4e4302c9.css.map": "/Bhumik6/MyApp.git/static/css/main.4e4302c9.css.map",
-    "main.4d3503b7.js.map": "/Bhumik6/MyApp.git/static/js/main.4d3503b7.js.map",
-    "787.d4aba7ab.chunk.js.map": "/Bhumik6/MyApp.git/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/Myapp/static/css/main.4e4302c9.css",
+    "main.js": "/Myapp/static/js/main.af479284.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Myapp/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Myapp/index.html",
+    "main.4e4302c9.css.map": "/Myapp/static/css/main.4e4302c9.css.map",
+    "main.af479284.js.map": "/Myapp/static/js/main.af479284.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Myapp/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e4302c9.css",
-    "static/js/main.4d3503b7.js"
+    "static/js/main.af479284.js"
   ]
 }
